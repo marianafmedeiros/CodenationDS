@@ -1,6 +1,7 @@
 data-science-0/**
 coestatistica-1/**
 data-science-1/**
+data-science-2/**
 
 # Module 02
 !data-science-0/main.ipynb
@@ -11,7 +12,12 @@ data-science-1/**
 !coestatistica-1/README.md
 !coestatistica-1/Analysis.ipynb
 
-#Module 04
+# Module 04
 !data-science-1/README.md
 !data-science-1/main.ipynb
 !data-science-1/pulsar_stars.csv
+
+# Module 05
+!data-science-2/README.md
+!data-science-2/main_git.ipynb
+!data-science-2/athletes.csv

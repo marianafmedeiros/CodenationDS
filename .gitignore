@@ -2,6 +2,8 @@ data-science-0/**
 coestatistica-1/**
 data-science-1/**
 data-science-2/**
+data-science-3/**
+
 
 # Module 02
 !data-science-0/main.ipynb
@@ -21,3 +23,9 @@ data-science-2/**
 !data-science-2/README.md
 !data-science-2/main_git.ipynb
 !data-science-2/athletes.csv
+
+# Module 06
+!data-science-3/main.ipynb
+!data-science-3/fifa.csv
+!data-science-3/README.md
+

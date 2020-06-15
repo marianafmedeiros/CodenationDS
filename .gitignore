@@ -4,7 +4,9 @@ data-science-1/**
 data-science-2/**
 data-science-3/**
 data-science-4/**
-
+enem-2/**
+enem-4/**
+final_project/**
 
 # Module 02
 !data-science-0/main.ipynb
@@ -34,3 +36,17 @@ data-science-4/**
 !data-science-4/README.md
 !data-science-4/main_git.ipynb
 !data-science-4/countries.csv
+
+# Module 08
+!enem-2/main_2.ipynb
+!enem-2/test.csv
+!enem-2/train.csv
+!enem-2/enem_2016_dic.xlsx
+!enem-2/README.md
+
+# Module 09
+!enem-4/main.ipynb
+!enem-4/test.csv
+!enem-4/train.csv
+!enem-4/README.md
+
